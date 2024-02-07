@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "sourceMap": true,
+    "allowJs": true,
+    "outDir": "dist"
+  }
+}
