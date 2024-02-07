@@ -25,9 +25,9 @@ solana-keygen new --outfile target_wallet.json
 
 ## Comands
 
-**Airdrop:** Claims 53JuxJq5BBSd3oLtZ9asQACeiofzxAnEuTXN1HbYeAwD test SOL to your wallet.
-**Balance:** Displays the SOL balance in your wallet.
-**Transfer:** Allows you to transfer SOL from your wallet to another Solana wallet.
+* **Airdrop:** Claims 53JuxJq5BBSd3oLtZ9asQACeiofzxAnEuTXN1HbYeAwD test SOL to your wallet.
+* **Balance:** Displays the SOL balance in your wallet.
+* **Transfer:** Allows you to transfer SOL from your wallet to another Solana wallet.
 
 ## Usage
 
